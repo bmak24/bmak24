@@ -1,5 +1,6 @@
+# Welcome to my GitHub profile
 ## About me
-Boris Makarov, 25+ years data management professional in Oil & Gas, subsurface data
+Boris Makarov, with 25+ years data management professional in Oil & Gas, subsurface data
 
 <!--
 **bmak24/bmak24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
